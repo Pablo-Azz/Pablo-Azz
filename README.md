@@ -1,7 +1,7 @@
 ### Hi there 👋
-### I'm Currently an engineering student at NACC
-### I work as much as I can 
-### I love music, mainstream anime, and the gym
+- I'm Currently an engineering student at NACC
+- I work as much as I can 
+- I love music, mainstream anime, and the gym
 <!--
 **Pablo-Azz/Pablo-Azz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
