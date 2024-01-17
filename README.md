@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Pablo Azzati
 - I'm Currently an engineering student at NACC
 - I work as much as I can 
 - I love music, mainstream anime, and the gym
